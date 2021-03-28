@@ -38,7 +38,8 @@ body {
 .task-row-wrapper {
   display: flex;
 }
-ul {
+ul,
+p {
   margin: 0;
   padding: 0px;
 }
