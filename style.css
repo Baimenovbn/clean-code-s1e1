@@ -90,7 +90,7 @@ input,button{
 .task__edit-input_new {
   width: 318px;
 }
-p > button:hover {
+.tasks__btn_add:hover {
   color: #0fc57c;
 }
 
