@@ -32,7 +32,7 @@ body {
 .task__title, .task__edit-input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .task-row-wrapper {
   display: flex;
@@ -137,7 +137,7 @@ input, button {
 
 /* Completed */
 .task__title_completed {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
@@ -148,7 +148,7 @@ input, button {
 
 .task_edit .task__edit-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task_edit .task__title {
